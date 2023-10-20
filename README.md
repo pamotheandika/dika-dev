@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andika Pamothe</h1>
 <h3 align="center">A Passionate Fullstack Developer From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikamothe" alt="dika-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pamotheandika" alt="dika-dev" /> </p>
 
 - 🌱 I’m currently learning **Golang**
 
@@ -21,8 +21,8 @@
 </details>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dika-dev&show_icons=true&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dika-dev">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pamotheandika&show_icons=true&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pamotheandika">
 </p>
 
 <p align="center">
